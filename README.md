@@ -3,7 +3,7 @@ Python library to check two names and return their relationship status as per "F
 
 <h1><a href="/">Flames</a></h1>
       
-<h1>How it works?<h1>
+<h2>How it works?<h2>
     <h3>What is FlamesGame?</h3>
     <br>
       FlamesGame is a relationship calculating algorithm famous between the youngsters. At the time of graduation everyone might heard about this and many of them tried out this secretly. Some took this as very serious also. So what FLAMES stance for?
